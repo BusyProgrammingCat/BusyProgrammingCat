@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🐈 Hello dear reader,
+
+**this is _W.I.P_ and I hope to finalize an introductions soon 🙏**
+
 <!--
 **BusyProgrammingCat/BusyProgrammingCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
